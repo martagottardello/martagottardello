@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there 👋
+I am Marta Gottardello
+Firmware Engineer
 
-<!--
-**martagottardello/martagottardello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻  About Me
+💡  I’m an energy engineer who transitioned into a firmware engineer. After discovering embedded systems and the world of telecommunications, my curiosity has only grown. Today, I’m excited to explore the challenges and innovations behind these technologies.
 
-Here are some ideas to get you started:
+🔭  I’m currently working on microcontroller and microprocessor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌   Download my [Curriculum Vitae](https://github.com/martagottardello/martagottardello/blob/main/CV_Gottardello_Marta_first.pdf)
+
+📫   You can reach me at: [LinkedIn](https://www.linkedin.com/in/marta-gottardello-2a3a61223/), [Email](marta97gotta@gmail.com)
+
+👨🏻‍💻  Languages and Tools
+
+Linux  Visual Studio Code  Python  C  BASH  Git  GitHub  LaTeX  Matlab
